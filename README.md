@@ -1,2 +1,2 @@
 # etcdesktop-web
-etcdesktop website
+etcdesktop website - https://etcdesktop.com
